@@ -1,0 +1,8 @@
+type BlogPost {
+  id: ID! @id
+  name: String!
+  description: String!
+  image: String
+}
+
+
